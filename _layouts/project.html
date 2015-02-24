@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Community Details</h4>
+            <div class="hline"></div>
+            <p><b>Name:</b> {{ page.client }}</p>
+            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><b>SNA Dashboard:</b> <a href="{{ page.website }}">{{ page.dashboard }}</a></p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+	 
+{% include networks.html title="Networks" limit=5 %}

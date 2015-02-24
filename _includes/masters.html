@@ -1,0 +1,38 @@
+{% assign groups = site.masters | group_by: "category" %}
+{% for group in groups %}
+<div class="container mtb masters">
+    {% assign loopindex = -1 %}
+    {% for member in group.items %}
+    {% assign loopindex = forloop.index | modulo: 4 %}
+    {% if loopindex == 1 %}
+    <div class="row centered">
+    {% endif %}    
+        {% if forloop.index == 1 %}
+        <h3 class="mb">{{ group.name }}</h3>
+        {% endif %}  
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4>{{ member.name }}</h4>
+            <h5 class="ctitle">{{ member.position }}</h5>
+            <p>{{ member.text }}</p>
+            <div class="hline"></div>
+        </div><! --/col-lg-3 -->	 	
+    {% if loopindex == 0 %}
+    </div><! --/row -->
+    {% endif %}    
+    {% endfor %}
+    {% if loopindex != 0 %}
+    </div><! --/row -->
+    {% endif %}    
+</div><! --/container -->
+{% endfor %}

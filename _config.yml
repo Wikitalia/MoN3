@@ -1,0 +1,214 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Masters of Network 3
+description: "Masters of Network 3 - designing the future of online debate"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://wikitalia.github.io/MoN3"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary_dark: "#101010"
+  primary: "#00b3fe" #"#F70031" 
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: github
+    url: https://github.com/Wikitalia/edgesense
+  - title: envelope
+    url: https://groups.google.com/forum/#!aboutgroup/masters-of-networks-3
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+email: masters-of-networks-3@googlegroups.com
+location:
+    website: http://www.hotelcapodafrica.com/
+    tel: (+39) 06 772 801
+    address:
+      - lines: 
+        - Hotel Capo d’Africa
+        - VIA CAPO D'AFRICA 54, 
+        - 00184 ROMA, 
+        - ITALIA
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+masters:
+    - name: Jean-Michel Cornu 
+      category: Community managers
+      position: "Imagination4People – Canada"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Lee-Sean Huang 
+      category: Community managers
+      position: "Purpose – USA"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Noemi Salantiu 
+      category: Community managers
+      position: "Edgeryders – UK"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Jasminko Novak 
+      category: Community managers
+      position: "EIPCM – Germany"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Rosa Strube 
+      category: Community managers
+      position: "CCSCP – Germany"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Guy Melançon 
+      category: Network/Data Scientists
+      position: "University of Bordeaux- France"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Benjamin Renoust 
+      category: Network/Data Scientists
+      position: "NII – Japan"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Raffaele Miniaci 
+      category: Network/Data Scientists
+      position: "University of Brescia – Italy"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Matteo Fortini 
+      category: Network/Data Scientists
+      position: "University of Bologna – Italy"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Giovanni Ponti 
+      category: Network/Data Scientists
+      position: "University of Alicante – Spain"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Alberto Cottica 
+      category: Network/Data Scientists
+      position: "Edgeryders – UK"
+      text: "Economist, expert on collaborative public policies and online participation."
+      img: alberto.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com/alberto_cottica
+    - name: Mark Klein 
+      category: Collective Intelligence researchers
+      position: "MIT – USA and University of Zurich – Switzerland"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Benoit Gregoire 
+      category: Collective Intelligence researchers
+      position: "Imagination4People – Canada"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Marc-Antoine Parent 
+      category: Collective Intelligence researchers
+      position: "Imagination4People – Canada"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Luca Mearelli
+      category: Collective Intelligence researchers
+      position: "Wikitalia – Italy"
+      text: "I'm a developer, entrepenuer and researcher."
+      img: lucamea.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com/lmea
+        - title: github
+          url: https://github.com/luca
+    - name: Marta Arniani 
+      category: Collective Intelligence researchers
+      position: "Sigma Orionis – France"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Fabrizio Gasparetto 
+      category: Collective Intelligence researchers
+      position: "Oxway – Italy"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    - name: Mathias Becker 
+      category: Collective Intelligence researchers
+      position: "EIPCM – Germany"
+      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      img: person.jpg
+      social:
+        - title: twitter
+          url: https://twitter.com          
+    
+# Clients information. Shown on Home and About pages.
+partners:
+  - name: Wikitalia
+    img: wikitalia-logo.png
+    website: http://www.wikitalia.org
+  - name: Catalyst
+    img: catalyst-logo.png
+    website: http://catalyst-fp7.eu
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Why is debate fruitful and creative in some contexts, sterile and conflictual in others? Are there reliable tests for a debate’s good health? Can we predict how conversations will evolve? We will tackle these questions starting from a key idea: any conversation, both on- and offline, is a network of interactions across humans, i.e. a social network"
+
+        
+# # Testimonial content. Shown on Home and About page.
+# testimonial:
+#     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+#     author: Marcel Newman
+#     position: WEB DESIGNER - BLACKTIE.CO
