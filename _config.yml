@@ -4,7 +4,7 @@
 title: Masters of Network 3
 description: "Masters of Network 3 - designing the future of online debate"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/MoN3" #important: start with /
 url: "http://wikitalia.github.io/MoN3"
 
 # Build settings
