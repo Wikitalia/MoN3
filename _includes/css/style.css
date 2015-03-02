@@ -217,6 +217,9 @@ a:focus {
 .masters .row {
     margin-bottom:10px;
 }
+.masters p {
+    line-height:18px;
+}
 /*	################################################################
 	SITE WRAPS
 ################################################################# */
@@ -326,13 +329,14 @@ a:focus {
 	color:#fff;
 	margin:0;
 	padding:40px 5px 0;
+    margin-bottom:30px;
 	font-size:16px;
 	text-transform:uppercase;
 }
 .tpl6 .dmbutton
 {
 	display:inline-block;
-	margin:30px 5px 20px 5px;
+	margin:5px 5px 5px 5px;
 	font-size:13px;
 }
 

@@ -90,11 +90,18 @@ masters:
     - name: Guy Melançon 
       category: Network/Data Scientists
       position: "University of Bordeaux- France"
-      text: 
-      img: person.jpg
+      text: |
+          Guy is a network analyst and visual analytics expert, 
+          with a focus on solving problems emerging from domain 
+          questions turned into data crunching and network mining tasks
+      img: guy_melancon.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://about.me/guywiz         
+        - title: link
+          url: http://www.labri.fr/perso/melancon/doku.php      
+        - title: link
+          url: http://www.labri.fr/perso/melancon     
     - name: Benjamin Renoust 
       category: Network/Data Scientists
       position: "NII – Japan"
@@ -139,6 +146,18 @@ masters:
           url: https://twitter.com/alberto_cottica
         - title: link
           url: http://www.cottica.net
+    - name: Alfonso Crisci 
+      category: Network/Data Scientists
+      position: "Institute of Biometeorology CNR of Florence - Italy"
+      text: "Biometeorologist at IBIMET CNR working on information retrieval concerning climate and meteo."
+      img: alfonso_crisci.jpg
+      social:
+        - title: link
+          url: http://www.ibimet.cnr.it    
+        - title: twitter
+          url: https://twitter.com/alf_crisci
+        - title: link
+          url:  http://scholar.google.it/citations?user=D6YYpg0AAAAJ
     - name: Mark Klein 
       category: Collective Intelligence researchers
       position: "MIT – USA and University of Zurich – Switzerland"
@@ -217,10 +236,10 @@ masters:
       text: |
           Bioengineer. Master in Open Innovation and Knowledge Transfer. 
           He is interested in participatory democracy phenomena.     
-      img: person.jpg
+      img: nicola_bianchi.jpg
       social:
         - title: twitter
-          url: https://twitter.com/
+          url: https://twitter.com/nikko801
     - name: Sabrina Onano
       category: Community managers
       position: "Innovatori PA - Italy"
