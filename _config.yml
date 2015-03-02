@@ -50,47 +50,47 @@ masters:
     - name: Jean-Michel Cornu 
       category: Community managers
       position: "Imagination4People – Canada"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: cofounder and Chief Visionary Officer of Imagination for People (to help networking people who develop creative social projects.)
+      img: jeanmichel_cornu.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://www.imaginationforpeople.org/        
     - name: Lee-Sean Huang 
       category: Community managers
       position: "Purpose – USA"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: Lee-Sean was the founding member of Purpose's design team and currently heads up the Collective Intelligence practice there.
+      img: leesean_huang.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://www.purpose.com/      
     - name: Noemi Salantiu 
       category: Community managers
       position: "Edgeryders – UK"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: Nurtures social dynamics that are conducive to collaboration and collective empowerment. Committed to social change.
+      img: noemi_salantiu.png
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: https://edgeryders.eu          
     - name: Jasminko Novak 
       category: Community managers
       position: "EIPCM – Germany"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://eipcm.org/
     - name: Rosa Strube 
       category: Community managers
       position: "CCSCP – Germany"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://www.scp-centre.org/
     - name: Guy Melançon 
       category: Network/Data Scientists
       position: "University of Bordeaux- France"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
         - title: twitter
@@ -98,73 +98,83 @@ masters:
     - name: Benjamin Renoust 
       category: Network/Data Scientists
       position: "NII – Japan"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: "Benjamin's work focuses on data analysis from a network perspective, with a taste for visual analytics of complex networks."
+      img: benjamin_renoust.jpg
       social:
         - title: twitter
-          url: https://twitter.com          
+          url: https://twitter.com/renoust
     - name: Raffaele Miniaci 
       category: Network/Data Scientists
       position: "University of Brescia – Italy"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: Empirical economist and applied econometrician
+      img: raffaele_miniaci.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: https://sites.google.com/site/rafminiaci/          
     - name: Matteo Fortini 
       category: Network/Data Scientists
       position: "University of Bologna – Italy"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: "Network/data analyst, opendata and opensource enthusiast, civic hacker, linux expert, maker, photographer, dreamer."
+      img: matteo_fortini.png
       social:
         - title: twitter
-          url: https://twitter.com          
+          url: https://twitter.com/metiuuitem         
     - name: Giovanni Ponti 
       category: Network/Data Scientists
       position: "University of Alicante – Spain"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: Giovanni Ponti is Professor of Economics at the Universidad de Alicante and LUISS Guido Carli Roma.
+      img: giovanni_ponti.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://docenti.luiss.it/ponti/     
     - name: Alberto Cottica 
       category: Network/Data Scientists
-      position: "Edgeryders – UK"
+      position: "Wikitalia – Italy"
       text: "Economist, expert on collaborative public policies and online participation."
       img: alberto.jpg
       social:
+        - title: link
+          url: http://wikitalia.org/          
         - title: twitter
           url: https://twitter.com/alberto_cottica
+        - title: link
+          url: http://www.cottica.net
     - name: Mark Klein 
       category: Collective Intelligence researchers
       position: "MIT – USA and University of Zurich – Switzerland"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      img: person.jpg
+      text: |
+          Mark's research involves developing software tools to increase 
+          collective intelligence in groups and crowds.
+      img: mark_klein.png
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://cci.mit.edu/klein/          
     - name: Benoit Gregoire 
       category: Collective Intelligence researchers
       position: "Imagination4People – Canada"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://imaginationforpeople.org/      
     - name: Marc-Antoine Parent 
       category: Collective Intelligence researchers
       position: "Imagination4People – Canada"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://imaginationforpeople.org/          
+        - title: github
+          url: github.com/maparent      
     - name: Luca Mearelli
       category: Collective Intelligence researchers
       position: "Wikitalia – Italy"
       text: "I'm a developer, entrepenuer and researcher."
       img: lucamea.jpg
       social:
+        - title: link
+          url: http://wikitalia.org/          
         - title: twitter
           url: https://twitter.com/lmea
         - title: github
@@ -172,27 +182,70 @@ masters:
     - name: Marta Arniani 
       category: Collective Intelligence researchers
       position: "Sigma Orionis – France"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: http://sigma-orionis.com/       
     - name: Fabrizio Gasparetto 
       category: Collective Intelligence researchers
       position: "Oxway – Italy"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: "I'm working on collective Intelligence mining"
       img: person.jpg
       social:
-        - title: twitter
-          url: https://twitter.com          
+        - title: link
+          url: https://oxway.co/         
     - name: Mathias Becker 
       category: Collective Intelligence researchers
       position: "EIPCM – Germany"
-      text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://eipcm.org/
+    - name: Michelle Bachler
+      category: Collective Intelligence researchers
+      position: "The Open University – UK"
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://www.open.ac.uk/
+    - name: Nicola Bianchi
+      category: Collective Intelligence researchers
+      position: "MIUR & National Operative Programme of Resarch and Competitiveness - Italy"
+      text: |
+          Bioengineer. Master in Open Innovation and Knowledge Transfer. 
+          He is interested in participatory democracy phenomena.     
       img: person.jpg
       social:
         - title: twitter
-          url: https://twitter.com          
+          url: https://twitter.com/
+    - name: Sabrina Onano
+      category: Community managers
+      position: "Innovatori PA - Italy"
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://www.innovatoripa.it/
+    - name: Laura Manconi
+      category: Community managers
+      position: "Innovatori PA - Italy"
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://www.innovatoripa.it/
+    - name: Nicola Ghirardi
+      category: Community managers
+      position: "Cineca - Italy"
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://www.cineca.it/
+
     
 # Clients information. Shown on Home and About pages.
 partners:
