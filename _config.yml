@@ -122,7 +122,7 @@ masters:
     - name: Giovanni Ponti 
       category: Network/Data Scientists
       position: "University of Alicante – Spain"
-      text: Giovanni Ponti is Professor of Economics at the Universidad de Alicante and LUISS Guido Carli Roma.
+      text: "Economist, director of the Laboratory for Theoretical and Experimental Economics (LaTEx) – Universidad de Alicante."
       img: giovanni_ponti.jpg
       social:
         - title: link
