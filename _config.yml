@@ -201,8 +201,16 @@ masters:
     - name: Marta Arniani 
       category: Collective Intelligence researchers
       position: "Sigma Orionis – France"
-      text: 
-      img: person.jpg
+      text: "Marta leads Sigma Orionis’ Creative and Civic Innovation Unit. She is interested in creativity as engine for civic engagement."
+      img: marta_arniani.jpg
+      social:
+        - title: link
+          url: http://sigma-orionis.com/       
+    - name: Yannis Treffot
+      category: Collective Intelligence researchers
+      position: "Sigma Orionis – France"
+      text: "Yannis is Deputy Project Manager in the Creative and Civic Innovation Unit at Sigma Orionis."
+      img: yannis_treffot.jpg
       social:
         - title: link
           url: http://sigma-orionis.com/       
