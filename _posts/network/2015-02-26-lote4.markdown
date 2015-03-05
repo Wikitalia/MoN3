@@ -5,10 +5,10 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: network_portfolio.png
+img: lote4_portfolio.png
 carousel:
 - LOTE4.jpg
-client: A Twitter conversation around the #LOTE4
+client: LOTE4 on Twitter
 dashboard: http://lote4.edgesense.spazidigitali.com/
 website: https://edgeryders.eu/en/lote4/welcome-to-lote4
 ---
