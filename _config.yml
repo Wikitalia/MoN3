@@ -233,8 +233,8 @@ masters:
     - name: Michelle Bachler
       category: Collective Intelligence researchers
       position: "The Open University – UK"
-      text: 
-      img: person.jpg
+      text: Michelle is a project officer at the Open University working on collective intelligence and knowledge mapping technologies
+      img: michelle-bachler.jpg
       social:
         - title: link
           url: http://www.open.ac.uk/
@@ -251,16 +251,16 @@ masters:
     - name: Sabrina Onano
       category: Community managers
       position: "Innovatori PA - Italy"
-      text: 
-      img: person.jpg
+      text: Engineer. Information system analyst for InnovatoriPA and other web 2.0 applications developed by FormezPA
+      img: sabrinaonano_263.jpg
       social:
         - title: link
           url: http://www.innovatoripa.it/
     - name: Laura Manconi
       category: Community managers
       position: "Innovatori PA - Italy"
-      text: 
-      img: person.jpg
+      text: Project manager at Formez PA. Her activities deals with ICT-based training activities and collaborative and participative online spaces addressed to civil servants.
+      img: lmanconi_profile.jpg
       social:
         - title: link
           url: http://www.innovatoripa.it/
