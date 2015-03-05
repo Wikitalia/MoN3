@@ -5,7 +5,7 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: lote4_portfolio.png
+img: lote4_portfolio.jpg
 carousel:
 - LOTE4.jpg
 client: LOTE4 on Twitter
