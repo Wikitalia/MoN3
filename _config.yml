@@ -71,14 +71,6 @@ masters:
       social:
         - title: link
           url: https://edgeryders.eu          
-    - name: Rosa Strube 
-      category: Community managers
-      position: "CCSCP – Germany"
-      text: 
-      img: person.jpg
-      social:
-        - title: link
-          url: http://www.scp-centre.org/
     - name: Guy Melançon 
       category: Network/Data Scientists
       position: "University of Bordeaux- France"
@@ -160,19 +152,11 @@ masters:
       social:
         - title: link
           url: http://cci.mit.edu/klein/          
-    - name: Benoit Gregoire 
-      category: Collective Intelligence researchers
-      position: "Imagination4People – Canada"
-      text: 
-      img: person.jpg
-      social:
-        - title: link
-          url: http://imaginationforpeople.org/      
     - name: Marc-Antoine Parent 
       category: Collective Intelligence researchers
       position: "Imagination4People – Canada"
-      text: 
-      img: person.jpg
+      text: Working on semantic web and visual representations of argument structure.
+      img: marc_antoine_parent.jpg
       social:
         - title: link
           url: http://imaginationforpeople.org/          
@@ -206,14 +190,6 @@ masters:
       social:
         - title: link
           url: http://sigma-orionis.com/       
-    - name: Fabrizio Gasparetto 
-      category: Collective Intelligence researchers
-      position: "Oxway – Italy"
-      text: "I'm working on collective Intelligence mining"
-      img: person.jpg
-      social:
-        - title: link
-          url: https://oxway.co/         
     - name: Michelle Bachler
       category: Collective Intelligence researchers
       position: "The Open University – UK"
@@ -256,15 +232,32 @@ masters:
       social:
         - title: link
           url: http://www.cineca.it/
-    - name: Marc-Antoine Parent
+    - name: Benoit Gregoire 
       category: Collective Intelligence researchers
       position: "Imagination4People – Canada"
-      text: Working on semantic web and visual representations of argument structure.
-      img: marc_antoine_parent.jpg
+      text: 
+      img: person.jpg
       social:
         - title: link
-          url: http://imaginationforpeople.org/en/
-
+          url: http://imaginationforpeople.org/   
+    - name: Fabrizio Gasparetto 
+      category: Collective Intelligence researchers
+      position: "Oxway – Italy"
+      text: "I'm working on collective Intelligence mining"
+      img: person.jpg
+      social:
+        - title: link
+          url: https://oxway.co/   
+    - name: Rosa Strube 
+      category: Community managers
+      position: "CCSCP – Germany"
+      text: 
+      img: person.jpg
+      social:
+        - title: link
+          url: http://www.scp-centre.org/
+      
+   
 
     
 # Clients information. Shown on Home and About pages.
