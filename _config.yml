@@ -71,14 +71,6 @@ masters:
       social:
         - title: link
           url: https://edgeryders.eu          
-    - name: Jasminko Novak 
-      category: Community managers
-      position: "EIPCM – Germany"
-      text: 
-      img: person.jpg
-      social:
-        - title: link
-          url: http://eipcm.org/
     - name: Rosa Strube 
       category: Community managers
       position: "CCSCP – Germany"
@@ -222,14 +214,6 @@ masters:
       social:
         - title: link
           url: https://oxway.co/         
-    - name: Mathias Becker 
-      category: Collective Intelligence researchers
-      position: "EIPCM – Germany"
-      text: 
-      img: person.jpg
-      social:
-        - title: link
-          url: http://eipcm.org/
     - name: Michelle Bachler
       category: Collective Intelligence researchers
       position: "The Open University – UK"
@@ -272,6 +256,15 @@ masters:
       social:
         - title: link
           url: http://www.cineca.it/
+    - name: Marc-Antoine Parent
+      category: Collective Intelligence researchers
+      position: "Imagination4People – Canada"
+      text: Working on semantic web and visual representations of argument structure.
+      img: marc_antoine_parent.jpg
+      social:
+        - title: link
+          url: http://imaginationforpeople.org/en/
+
 
     
 # Clients information. Shown on Home and About pages.
