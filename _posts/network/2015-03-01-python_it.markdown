@@ -5,7 +5,7 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: network_portfolio.png
+img: python.png
 carousel:
 - python.png
 client: Python-it - Mailing List

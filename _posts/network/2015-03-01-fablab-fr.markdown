@@ -5,7 +5,7 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: network_portfolio.png
+img: fablab-fr.png
 carousel:
 - fablab-fr.png
 client: ImaginationForPeople - fablab-fr Mailing List

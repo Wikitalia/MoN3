@@ -5,7 +5,7 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: network_portfolio.png
+img: cyou1.png
 carousel:
 - cyou1.png
 client: ImaginationForPeople - cyou1 Mailing List

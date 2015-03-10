@@ -5,7 +5,7 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: network_portfolio.png
+img: mt2019.png
 carousel:
 - mt2019.png
 client: #mt2019 + #the7hours
