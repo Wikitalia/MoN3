@@ -10,6 +10,6 @@ carousel:
 - innovatoripa_01.jpg
 - innovatoripa_02.jpg
 client: Innovatori PA
-dashboard: http://www.innovatoripa.it/comunita
-website: http://edgesense.innovatoripa.it/
+dashboard: http://edgesense.innovatoripa.it/
+website: http://www.innovatoripa.it/comunita
 ---

@@ -9,12 +9,6 @@ layout: default
 
         {% include carousel.html %}
 
-        <div class="col-lg-5 col-lg-offset-1">
-            <div class="spacing"></div>
-
-            {{ content }}
-
-        </div>
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
             <h4>Community Details</h4>
@@ -23,6 +17,17 @@ layout: default
             <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
             <p><b>SNA Dashboard:</b> <a href="{{ page.dashboard }}">{{ page.dashboard }}</a></p>
         </div>
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+            &nbsp;
+            {{ content }}
+            <div class="row">
+                <h4>Licenses</h4>
+                <div class="hline"></div>
+                <p>
+                   We are still working out the licensing for these data. Please DO NOT assume you can use them. Check back, or contact alberto@edgeryders.eu if you want to use them.
+                </p>
+            </div><! --/row -->
     </div><! --/row -->
 </div><! --/container -->
 	 
