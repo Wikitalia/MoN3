@@ -8,7 +8,7 @@ categories:
 img: LOTE4_portfolio.png
 carousel:
 - LOTE4.jpg
-client: LOTE4 on Twitter
+client: #LOTE4 on Twitter
 dashboard: http://lote4.edgesense.spazidigitali.com/
 website: https://edgeryders.eu/en/lote4/welcome-to-lote4
 ---

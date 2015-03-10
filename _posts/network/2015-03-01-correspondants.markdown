@@ -1,14 +1,14 @@
 ---
 layout: project
-title:  "culture-multimedia"
+title:  "correspondants"
 date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
 img: network_portfolio.png
 carousel:
-- network_01.jpg
-client: ImaginationForPeople - culture-multimedia Mailing List
-dashboard: http://edgesense.spazidigitali.com/culture-multimedia
+- correspondants.png
+client: ImaginationForPeople - correspondants Mailing List
+dashboard: http://edgesense.spazidigitali.com/correspondants
 website: http://imaginationforpeople.org/en/
 ---

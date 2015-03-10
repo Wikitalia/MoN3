@@ -7,8 +7,8 @@ categories:
 - network
 img: network_portfolio.png
 carousel:
-- network_01.jpg
+- mt2019.png
 client: #mt2019 + #the7hours
-dashboard: http://
-website: http://
+dashboard: http://mt2019.edgesense.spazidigitali.com/
+website: https://twitter.com
 ---

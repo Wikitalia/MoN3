@@ -1,14 +1,14 @@
 ---
 layout: project
-title:  "culture-multimedia"
+title:  "animation_fr"
 date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
 img: network_portfolio.png
 carousel:
-- network_01.jpg
-client: ImaginationForPeople - culture-multimedia Mailing List
-dashboard: http://edgesense.spazidigitali.com/culture-multimedia
+- animation_fr.png
+client: ImaginationForPeople - animation_fr Mailing List
+dashboard: http://edgesense.spazidigitali.com/animation_fr
 website: http://imaginationforpeople.org/en/
 ---
