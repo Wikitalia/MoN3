@@ -5,9 +5,9 @@ date:   2015-02-20 17:54:46
 author: Wikitalia
 categories:
 - network
-img: fablab-fr.png
+img: fablab_fr.png
 carousel:
-- fablab-fr.png
+- fablab_fr.png
 client: ImaginationForPeople - fablab-fr Mailing List
 dashboard: http://edgesense.spazidigitali.com/fablab-fr
 website: http://imaginationforpeople.org/en/
